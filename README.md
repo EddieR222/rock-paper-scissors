@@ -1,0 +1,1 @@
+A simple game of rock paper scissors made in javascript. Very basic. A project done from the Odin Project.
